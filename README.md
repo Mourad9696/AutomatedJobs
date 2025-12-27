@@ -1,4 +1,5 @@
 Enterprise Application Monitoring & Backup Suite
+
 📝 Project Overview
 This repository hosts a custom-built automation suite designed to manage and protect mission-critical enterprise web applications. Designed for high-stakes environments—such as banking and financial settlement—this system ensures 100% uptime through a "set-and-forget" automation layer that handles database security, service health, and log management.
 
