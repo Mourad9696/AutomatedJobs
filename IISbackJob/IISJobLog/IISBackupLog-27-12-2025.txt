@@ -1,0 +1,4 @@
+[27-12-2025 17:31:29] Executing Backup-WebConfiguration...
+[27-12-2025 17:31:29] SUCCESS: IIS backup folder created.
+[27-12-2025 17:31:29] FATAL ERROR: The script cannot see 'C:\Windows\Sysnative\inetsrv\backup\IIS_Backup_27-12-2025_17-31-29'. This is likely a 32-bit/64-bit redirection issue.
+[27-12-2025 17:31:29] Job Completed.
