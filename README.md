@@ -1,5 +1,4 @@
 📝 Project Overview:
-#########################
 This repository hosts a custom-built automation suite designed to manage and protect VCX (Visa Clearing Exchange), a mission-critical banking web application used for financial settlement with Visa.
 
 Because VCX is responsible for retrieving and settling bank funds, the system requires 100% uptime and guaranteed data backups. These scripts replace manual maintenance with a "set-and-forget" automation layer that handles database security, service monitoring, and log management.
