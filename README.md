@@ -1,4 +1,4 @@
-**VCX automated scripts for monitoring and backup support**
+VCX automated scripts for monitoring and backup support
 
 
 📝 Project Overview:
