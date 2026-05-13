@@ -2,7 +2,7 @@
 [2026-05-09 12:05:00] [INFO] Compressing application files to: F:\VCXWebAppServerBackup\VCX_AppFiles_20260509_120500.7z
 [2026-05-09 12:08:36] [WARN] WARNING: 7-Zip finished with a warning exit code (1). Backup archive created, but some files may have been skipped (e.g., files locked by the VCX application).
 [2026-05-09 12:08:36] [INFO] SUCCESS: VCX Application monthly backup completed successfully. Archive size: 168.976535797119 MB
-[2026-05-09 12:08:57] [INFO] INFO: Notification email sent successfully to Mohamed.A-ELHENAWY@QNB.COM.EG.
+[2026-05-09 12:08:57] [INFO] INFO: Notification email sent successfully to *******.********@***.COM.EG.
 [2026-05-09 12:08:57] [INFO] Cleaning up PRIMARY backups older than 30 days...
 [2026-05-09 12:08:57] [INFO] CLEANUP: Deleted old primary backup file: VCX_AppFiles_20260328_120501.7z
 [2026-05-09 12:08:57] [INFO] CLEANUP: Deleted old primary backup file: VCX_AppFiles_20260407_171616.7z
