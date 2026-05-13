@@ -1,0 +1,34 @@
+[2026-01-13 10:39:51] Starting service check on VISAEXTST...
+[2026-01-13 10:39:51] Service 'VCXService' is Running. Status: OK
+[2026-01-13 10:39:51] Service 'VCXProxyService' is Running. Status: OK
+[2026-01-13 10:39:51] Service 'IIS Admin Service' is STOPPED. Status: Stopped
+[2026-01-13 10:39:51] Service 'postgresql-x64-16 - PostgreSQL Server 16' is Running. Status: OK
+[2026-01-13 10:39:51] Services are still down. Flag file exists. Suppressing repeat alert.
+[2026-01-13 10:41:07] Starting service check on VISAEXTST...
+[2026-01-13 10:41:07] Service 'VCXService' is Running. Status: OK
+[2026-01-13 10:41:07] Service 'VCXProxyService' is Running. Status: OK
+[2026-01-13 10:41:07] Service 'IIS Admin Service' is Running. Status: OK
+[2026-01-13 10:41:07] Service 'postgresql-x64-16 - PostgreSQL Server 16' is Running. Status: OK
+[2026-01-13 10:41:07] Recovery detected. Sending recovery alert.
+[2026-01-13 10:42:18] RECOVERY EMAIL SENT.
+[2026-01-13 10:44:18] Starting service check on VISAEXTST...
+[2026-01-13 10:44:18] Service 'VCXService' is Running. Status: OK
+[2026-01-13 10:44:18] Service 'VCXProxyService' is Running. Status: OK
+[2026-01-13 10:44:18] Service 'IIS Admin Service' is STOPPED. Status: Stopped
+[2026-01-13 10:44:18] Service 'postgresql-x64-16 - PostgreSQL Server 16' is Running. Status: OK
+[2026-01-13 10:44:18] Service failure detected. Sending initial alert.
+[2026-01-13 10:44:42] CRITICAL ALERT EMAIL SENT.
+[2026-01-13 10:45:38] Starting service check on VISAEXTST...
+[2026-01-13 10:45:38] Service 'VCXService' is Running. Status: OK
+[2026-01-13 10:45:38] Service 'VCXProxyService' is Running. Status: OK
+[2026-01-13 10:45:38] Service 'IIS Admin Service' is Running. Status: OK
+[2026-01-13 10:45:38] Service 'postgresql-x64-16 - PostgreSQL Server 16' is Running. Status: OK
+[2026-01-13 10:45:38] Recovery detected. Sending recovery alert.
+[2026-01-13 10:45:38] RECOVERY EMAIL SENT.
+[2026-01-13 10:51:02] Starting service check on VISAEXTST...
+[2026-01-13 10:51:02] Service 'VCXService' is Running. Status: OK
+[2026-01-13 10:51:02] Service 'VCXProxyService' is Running. Status: OK
+[2026-01-13 10:51:02] Service 'IIS Admin Service' is STOPPED. Status: Stopped
+[2026-01-13 10:51:02] Service 'postgresql-x64-16 - PostgreSQL Server 16' is Running. Status: OK
+[2026-01-13 10:51:02] Service failure detected. Sending initial alert.
+[2026-01-13 10:51:02] CRITICAL ALERT EMAIL SENT.

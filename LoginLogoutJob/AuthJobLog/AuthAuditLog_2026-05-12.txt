@@ -1,0 +1,27 @@
+[2026-05-12 06:00:02] Starting login/logout audit job.
+[2026-05-12 06:00:02] Ensuring output directory structure exists at: E:\vcx\logs\user
+[2026-05-12 06:00:02] Searching for log files matching pattern: E:\vcx\logs\app-log-*...
+[2026-05-12 06:00:02] Found 15 log files. Starting processing. Malformed lines sent to E:\logs\user\failed\diagnostic_failing_line.txt.
+[2026-05-12 06:00:02] Processing file: app-log-2026-04-28.log
+[2026-05-12 06:00:02] Processing file: app-log-2026-04-29.log
+[2026-05-12 06:00:02] Processing file: app-log-2026-04-30.log
+[2026-05-12 06:00:02] --> FOUND: LOGIN for user mo****************@qnb.com.eg in app-log-2026-04-30.log
+[2026-05-12 06:00:02] --> FOUND: LOGOUT for user mo****************@qnb.com.eg in app-log-2026-04-30.log
+[2026-05-12 06:00:02] --> FOUND: LOGIN for user mo****************@qnb.com.eg in app-log-2026-04-30.log
+[2026-05-12 06:00:03] --> FOUND: LOGOUT for user mo****************@qnb.com.eg in app-log-2026-04-30.log
+[2026-05-12 06:00:03] Processing file: app-log-2026-05-01.log
+[2026-05-12 06:00:03] Processing file: app-log-2026-05-02.log
+[2026-05-12 06:00:03] Processing file: app-log-2026-05-03.log
+[2026-05-12 06:00:03] Processing file: app-log-2026-05-04.log
+[2026-05-12 06:00:03] Processing file: app-log-2026-05-05.log
+[2026-05-12 06:00:03] Processing file: app-log-2026-05-06.log
+[2026-05-12 06:00:03] Processing file: app-log-2026-05-07.log
+[2026-05-12 06:00:03] Processing file: app-log-2026-05-08.log
+[2026-05-12 06:00:03] Processing file: app-log-2026-05-09.log
+[2026-05-12 06:00:03] Processing file: app-log-2026-05-10.log
+[2026-05-12 06:00:03] Processing file: app-log-2026-05-11.log
+[2026-05-12 06:00:03] Processing file: app-log-2026-05-12.log
+[2026-05-12 06:00:03] Generating Login Attempt Summary...
+[2026-05-12 06:00:03] SUCCESS: Summary appended to E:\vcx\logs\user\login_audit.txt.
+[2026-05-12 06:00:03] Analysis complete. Clean log saved to E:\vcx\logs\user\login_audit.txt
+[2026-05-12 06:00:03] ************************ D   a   y  C  o  m  p l e t e d *********************
