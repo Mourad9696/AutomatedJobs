@@ -26,6 +26,7 @@ $TO_EMAIL = "******************@***.COM.EG"
 # The service account name provided in your requirements
 $SERVICE_ACCOUNT = "*******"
 # The password for the service account to authenticate with the mail server
+#THIS PART SHOULD BE PATCHED BY EITHER CALLING THIS PARAMETER FROM ANOTHER FILE (WHICH WILL BE CONTAINED IN ANOTEHR FUNCTION) OR THE PASSWORD COULD BE HASHED.
 $EMAIL_PASSWORD = "************************"
 # Number of hours to adjust the log time if the server time is different from local time
 $TIME_OFFSET_HOURS = 0
